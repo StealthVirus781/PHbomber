@@ -18,7 +18,7 @@ python3 run.py
 # download and install python on python.org
 # download and install git
 # go on command promt
-git clone https://github.com/AkNOwn389/PHbomber
+git clone https://github.com/StealthVirus781/PHbomber
 cd PHbomber
 pip install -r requirements.txt
 python run.py
@@ -27,13 +27,13 @@ python run.py
 ```
 sudo apt install python3-pip
 sudo apt install git
-git clone https://github.com/AkNOwn389/PHbomber
+git clone https://github.com/Stealth Virus781/PHbomber
 cd PHbomber
 pip install -r requirements.txt
 python3 run.py
 ```
 # ScreenShot
-![Screenshot](https://github.com/AkNOwn389/PHbomber/blob/main/Screenshot_20221215-005531.jpg)
+![Screenshot](https://github.com/StealthVirus/PHbomber/blob/main/Screenshot_20221215-005531.jpg)
 
 # Contributions
 Contributions are welcome! If you find issues or want to improve the project, feel free to submit a pull request.
