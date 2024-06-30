@@ -8,7 +8,7 @@ smsbomber its only works in Philippines
 ```
 pkg install git
 pkg install python3
-git clone https://github.com/AkNOwn389/PHbomber
+git clone https://github.com/StealthVirus781/PHbomber
 cd PHbomber
 pip3 install -r requirements.txt
 python3 run.py
